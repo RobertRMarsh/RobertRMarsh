@@ -1,6 +1,6 @@
 ## Hi, I'm Robert
 
-I'm a cybersecurity student with an Associate of Applied Science in Information Systems and Cybersecurity, currently pursing my Bachelor's in the same field. I'm passionate about protecting organization's and individual's digital and physical assets, and I'm sharping my skills through certifications, hands-on homelab projects, and CTF challenges. 
+I'm a cybersecurity student with an Associate of Applied Science in Information Systems and Cybersecurity, currently pursuing my Bachelor's in the same field. I'm passionate about protecting organization's and individual's digital and physical assets, and I'm sharpening my skills through certifications, hands-on homelab projects, and CTF challenges. 
 
 ## 🔭 What I'm working on
 - Building my cybersecurity project portfolio
