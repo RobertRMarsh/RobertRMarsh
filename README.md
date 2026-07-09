@@ -1,6 +1,6 @@
 ## Hi, I'm Robert
 
-I'm a cybersecurity student with an Associate of Applied Science in Information Systems and Cybersecurity, currently pursuing my Bachelor's in the same field. I'm passionate about protecting organization's and individual's digital and physical assets, and I'm sharpening my skills through certifications, hands-on homelab projects. 
+I'm a cybersecurity student with an Associate of Applied Science in Information Systems and Cybersecurity, currently pursuing my Bachelor's in the same field. I have a 4.0 GPA Currently and obtained my ISC2 CC cert recently. I'm passionate about protecting organization's and individual's digital and physical assets, and I'm sharpening my skills through my classes, certifications, and hands-on homelab projects. 
 
 ## 🔭 What I'm working on
 - Building my cybersecurity project portfolio
@@ -9,13 +9,11 @@ I'm a cybersecurity student with an Associate of Applied Science in Information 
 
 ## 🌱 I’m currently learning
 - Google Cybersecurity Professional Certification *(in progress)*
-- ISC2 Certfied in Cybersecurity *(in progress)*
 - Working toward COMPTIA Security+
-- Network security fundamentals
 - Common Industry Tools & methodologies
 
 ## 🔧 Tools & Technologies
-- Kali Linux | Burp Suite | Nmap | Wireshark
+- Linux | Windows 
 - Python | Bash
 - Proxmox | Docker
 - Git | Github
